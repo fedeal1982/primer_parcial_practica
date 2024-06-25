@@ -40,12 +40,10 @@ div p {
     margin-right: auto;
 }
 .final {
+    font-family: cursive;
     font-size: 15px;
 }
 hr {
     background-color: blue;
     border-color: white;
-}
-footer {
-    font-family: cursive;
 }
